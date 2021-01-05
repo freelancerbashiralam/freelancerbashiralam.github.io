@@ -1,3 +1,15 @@
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Cairo', sans-serif;
+}
+.banner-container{
+    background-color: #CBCACC;
+}
+.banner-column{
+    background-color: #8E8D8E;
+}
+.navbar-container{
+    background-color: #272B39;
+}
+.about-container{
+    background-color: #00A6BC;
 }
