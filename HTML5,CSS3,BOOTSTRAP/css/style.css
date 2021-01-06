@@ -13,3 +13,26 @@ body{
 .about-container{
     background-color: #00A6BC;
 }
+.education-container{
+    background-color: #EEEDEF;
+}
+.bg-redtype{
+    background-color:#FF9081;
+}
+.redtype-color{
+    color:#FF9081;
+}
+.circle{
+    background-color:#FF9081;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%; 
+}
+.project-container{
+    background-color: #21A7E5;
+}
+.card-img-top {
+    max-height: 200px;
+    min-height: 150px;
+    object-fit: cover;
+}
